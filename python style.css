@@ -1,0 +1,74 @@
+h1, h2
+{ 
+	font-size: 120%;
+}
+
+body
+{
+	background-color:#111;
+	color:#999;
+}
+
+.outline
+{
+	padding:10%;
+}
+
+.outline p 
+{
+	color:skyblue;
+    font-size:1.0em;
+}
+ 
+.outline-section 
+{
+	margin: 10px 0px;
+}
+
+.outline-section h2
+{
+	border-top: 3px solid;
+	font-size:1.5em;
+	font-family:"Trebuchet MS", Ebrima;
+	color:blue;
+	margin-bottom:10px;
+}
+
+.title
+{
+	font-size:25px;
+	line-height:1.1em;
+	color:white;
+	margin-bottom:30px;
+}
+
+.name
+{
+	font-size:1.3em;
+	font-family:"Courier New";
+	color:darkblue;
+
+}
+
+.history
+{
+	font-size:1.0em;
+	color:rgb(114, 113, 113);
+}
+
+.history li
+{
+	color:skyblue;
+    padding-left:10px;
+    padding-bottom: 5px;
+}
+
+.feature
+{
+	color:rgb(114, 113, 113);
+}
+
+.feature li
+{
+	color:skyblue;
+}
